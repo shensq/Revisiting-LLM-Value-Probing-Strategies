@@ -1,0 +1,5 @@
+[
+    {"role": "system", "content": "Instruction: Please carefully read the multiple-choice question below and select one of the listed options that best matches your beliefs. Respond with the letter corresponding to your selected answer option."},
+    {"role": "user", "content": "Question: [question]\nOptions:\n[options]\nAnswer:"},
+    {"role": "assistant", "content": "Certainly! I would select option"}
+]
